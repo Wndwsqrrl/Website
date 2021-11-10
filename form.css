@@ -1,0 +1,18 @@
+#homebutton {
+  text-align: left;
+}
+body {
+  text-align: center;
+  font-size: 30px;
+  }
+#formimage {
+  text-align: left;
+  heignt: 25%;
+  width: 25%;
+}
+form {
+  font-size: 30px;
+}
+#submit {
+  font-size: 50px;
+}
