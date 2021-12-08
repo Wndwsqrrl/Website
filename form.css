@@ -1,18 +1,15 @@
-#homebutton {
+#HomeButton {
   text-align: left;
 }
-body {
+h3 {
   text-align: center;
-  font-size: 30px;
-  }
+}
 #formimage {
-  text-align: left;
+  text-align: center;
   height: 25%;
   width: 25%;
 }
-form {
-  font-size: 30px;
-}
 #submit {
+  text-align: center;
   font-size: 50px;
 }
